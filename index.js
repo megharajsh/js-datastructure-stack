@@ -4,7 +4,7 @@ import { Stack } from './Stack.js'
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS - Stack Implementation</h1><hr>`;
+appDiv.innerHTML = `<h1>JS Datastructure - Stack Implementation Using Array</h1><hr>`;
 
 var stack = new Stack();
 stack.push(10);
